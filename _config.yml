@@ -12,11 +12,11 @@ baseurl: "/matrix-yang"                 # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-#twitter_username:  huxpro
-facebook_username:  huxpro
+weibo_username:     matrix-yang
+zhihu_username:     matrix-yang
+github_username:    matrix-yang
+#twitter_username:  matrix-yang
+facebook_username:  matrix-yang
 
 
 
